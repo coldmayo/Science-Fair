@@ -1,6 +1,5 @@
 import csv
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from textblob.classifiers import NaiveBayesClassifier as NBC
 from textblob import TextBlob
 
