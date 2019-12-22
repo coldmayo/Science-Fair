@@ -26,4 +26,4 @@ setup_twitter_oauth(consumerKey,
  accessToken,
  accessTokenSecret)
 
-searchTwitter('word', since='2011-03-01', until='2011-03-02')
+searchTwitter("TweetsI'mLookingFor", since='2011-03-01', until='2011-03-02')
