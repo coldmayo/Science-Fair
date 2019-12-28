@@ -21,7 +21,7 @@ The procedures were: 1st- Analyze the manifestoes for threatening statements and
   In conclusion, the neural network was able to tell the difference between a regular user and a potential mass shooter. Although the predictions were not 100% right the confidence interval was statistically sound.
   
 ## Definitions:
-true positive (TP) - outcome where the model correctly predicts the positive class. 
+true positive (TP) - outcome where the model correctly predicts the positive class.\n
 true negative (TN) - outcome where the model correctly predicts the negative class.
 false positive (FP) - outcome where the model incorrectly predicts the positive class. 
 false negative (FN) - outcome where the model incorrectly predicts the negative class.
