@@ -21,20 +21,20 @@ The procedures were: 1st- Analyze the manifestoes for threatening statements and
   In conclusion, the neural network was able to tell the difference between a regular user and a potential mass shooter. Although the predictions were not 100% right the confidence interval was statistically sound.
   
 ## Definitions:
-true positive (TP) - outcome where the model correctly predicts the positive class.\n
-true negative (TN) - outcome where the model correctly predicts the negative class.
-false positive (FP) - outcome where the model incorrectly predicts the positive class. 
-false negative (FN) - outcome where the model incorrectly predicts the negative class.
-Accuracy - fraction of predictions our model got right. The equation for that is: TP+TNTP+FP+FN+TN
-Precision - the proportion of positive identifications that were correct. The equation for that is: TPTP+FP
-Recall - the amount of positives identified correctly. The equation is TPTP+FN 
-F1 score - a weighted harmonic mean of precision and recall such that the best score is 1.0 and the worst is 0.0.
-Macro average - the average of the precision and recall of the system on different sets
-Weighted average - an average resulting from the multiplication of each component by a factor reflecting its importance
-Manifesto - a public declaration of policy and aims
-Hate speech - public speech that expresses hate or encourages violence towards a person or group based on something such as race,   religion, sex, or sexual orientation
-Confidence Interval - a type of estimate computed from the statistics of the observed data
-Neural network - a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns
-API (Application Program Interface) - a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.
-Mass shooting - three or more killings in a single incident
-Mass murderer - a person who commits mass murder
+true positive (TP) - outcome where the model correctly predicts the positive class.<br />
+true negative (TN) - outcome where the model correctly predicts the negative class.<br />
+false positive (FP) - outcome where the model incorrectly predicts the positive class.<br /> 
+false negative (FN) - outcome where the model incorrectly predicts the negative class.<br />
+Accuracy - fraction of predictions our model got right.<br />
+Precision - the proportion of positive identifications that were correct.<br /> 
+Recall - the amount of positives identified correctly.<br />  
+F1 score - a weighted harmonic mean of precision and recall such that the best score is 1.0 and the worst is 0.0<br />
+Macro average - the average of the precision and recall of the system on different sets<br />
+Weighted average - an average resulting from the multiplication of each component by a factor reflecting its importance<br />
+Manifesto - a public declaration of policy and aims<br />
+Hate speech - public speech that expresses hate or encourages violence towards a person or group based on something such as race,   religion, sex, or sexual orientation<br />
+Confidence Interval - a type of estimate computed from the statistics of the observed data<br />
+Neural network - a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns<br />
+API (Application Program Interface) - a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.<br />
+Mass shooting - three or more killings in a single incident<br />
+Mass murderer - a person who commits mass murder<br />
