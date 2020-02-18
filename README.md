@@ -1,5 +1,5 @@
 # Science-Fair
-This is the Repository for all my 2019 Science Fair Project
+This is the Repository for all my CS Science Fair Projects
 
 ## Problem statement:
 Can a classification model predict whether or not a twitter user could be a potential mass shooter?
@@ -45,3 +45,9 @@ Neural network - a set of algorithms, modeled loosely after the human brain, tha
 API (Application Program Interface) - a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.<br />
 Mass shooting - three or more killings in a single incident<br />
 Mass murderer - a person who commits mass murder<br />
+
+## Acknowledgments
+It is an honor to acknowledge the people who have helped me and supported me through the completion of this project.
+	First, I would like to thank my parents for the support, enthusiasm, and encouragement. Without them, I would not have the resources necessary to do this. 
+	Secondly, I want to thank my Uncle Doc who gave me advice for my presentation and the writing of this paper. Like my parents he has been a huge supporter through this journey.
+	Finally, I would like to thank the unnamed individuals who have helped me in varying ways.
